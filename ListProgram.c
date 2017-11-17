@@ -6,17 +6,10 @@ November 16, 2017*/
 
 int main()
 {
-	int uinput = 0; //User input
 	int i = 0; //Loop Variable
 	int f = 0; //Factor of 3 variable
 	int z = 0; //Loop Variable
 	int t = 0; //Factor of 5 variable
-	
-	do //Ensure that the entered variable is positive
-	{
-		printf("Please enter a positive integer to see what multiples of 3 and 5 it contains:\n");
-		scanf("%d", &uinput);
-	} while (uinput <= 0);
 
 	for (i = 0; i <= 333; i++) //Loop the multiplication of i by 3 if i is not a factor of 5
 	{
