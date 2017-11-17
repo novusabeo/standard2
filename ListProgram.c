@@ -1,4 +1,4 @@
-//Program to to find the sum of all the multiples of 3 or 5 below a number entered
+//Program to to find the sum of all the multiples of 3 or 5 below 1000
 /*John Morrow
 November 16, 2017*/
 
